@@ -1,0 +1,61 @@
+.wrapper {
+  overflow: hidden;
+}
+
+.text {
+  min-height: 500px;
+  background-color: rgb(255, 255, 255);
+  width: 50%;
+  float: left;
+  padding: 15px 15px 15px 15px;
+}
+
+.image {
+  min-height: 500px;
+  background-color: rgb(255, 255, 255);
+  width: 45%;
+  float: right;
+}
+
+.grapper {
+  overflow: hidden;
+}
+
+.box {
+  min-height: 150px;
+  width: 33.3%;
+  float: left;
+}
+
+.do {
+  background-color: #264653;
+}
+.does {
+  background-color: #2a9d8f;
+}
+.did {
+  background-color: #e9c46a;
+}
+
+.fot {
+  min-height: 70px;
+  background-color: rgb(0, 0, 0);
+  font-size: 40px;
+  font-weight: 600;
+  color: rgb(255, 185, 80);
+  text-align: center;
+}
+
+.head {
+  min-height: 70px;
+  background-color: rgb(0, 0, 0);
+  font-size: 40px;
+  font-weight: 600;
+  color: rgb(255, 185, 80);
+  text-align: center;
+}
+
+.ho {
+  color: #002e2e;
+  font-size: 50px;
+}
